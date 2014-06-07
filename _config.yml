@@ -8,3 +8,7 @@ url: "http://irevert.github.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  articles:
+    output: true

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How I built this site
+category: howto
+tags: jekyll blog github
 ---
 
 The initial steps are very simple.  Just followed the Jekyll getting

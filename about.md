@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
 This site is built using Jekyll.  You can find out more info about
